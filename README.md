@@ -1,6 +1,10 @@
 # website-of-ecoders
 using React nodejs  HTML CSS
 
+<image align="right" width="400" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png">
+<image align="left" width="400" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png"><br>
+
+<image align="center"  width="400" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png">
 # Create React App [![Build & Test](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
