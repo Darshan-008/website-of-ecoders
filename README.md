@@ -1,9 +1,10 @@
 # website-of-ecoders
-<p align="center">using React nodejs  HTML CSS</p>
-<image align="left" width="450" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png"/>
-<image align="right" width="450" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
+<p align="center">Using React nodejs  HTML CSS</p>
+<image align="center" width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png"/>
+    
+<image align="center" width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
 
-<image  width="500" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
+<image align="center"  width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
 
 <br>
 <hr>
@@ -23,8 +24,8 @@ If you have questions or need help, please ask in [GitHub Discussions](https://g
 ## Quick Overview
 
 ```sh
-npx create-react-app my-app
-cd my-app
+npx create-react-app Website
+cd website
 npm start
 ```
 
@@ -55,7 +56,7 @@ To create a new app, you may choose one of the following methods:
 ### npx
 
 ```sh
-npx create-react-app my-app
+npx create-react-app website
 ```
 
 _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) is a package runner tool that comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
@@ -63,7 +64,7 @@ _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7
 ### npm
 
 ```sh
-npm init react-app my-app
+npm init react-app website
 ```
 
 _`npm init <initializer>` is available in npm 6+_
@@ -71,7 +72,7 @@ _`npm init <initializer>` is available in npm 6+_
 ### Yarn
 
 ```sh
-yarn create react-app my-app
+yarn create react-app website
 ```
 
 _[`yarn create <starter-kit-package>`](https://yarnpkg.com/lang/en/docs/cli/create/) is available in Yarn 0.25+_
@@ -80,7 +81,7 @@ It will create a directory called `my-app` inside the current folder.<br>
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
-my-app
+website
 ├── README.md
 ├── node_modules
 ├── package.json
@@ -104,7 +105,7 @@ No configuration or complicated folder structures, only the files you need to bu
 Once the installation is done, you can open your project folder:
 
 ```sh
-cd my-app
+cd website
 ```
 
 Inside the newly created project, you can run some built-in commands:
