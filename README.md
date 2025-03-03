@@ -1,13 +1,5 @@
 # website-of-ecoders
-<p align="center">Using React nodejs  HTML CSS</p>
-<image align="center" width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png"/>
-    
-<image align="center" width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
 
-<image align="center"  width="800" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
-
-<br>
-<hr>
 <h1> Create React App</h1> 
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
@@ -147,5 +139,10 @@ You can find detailed instructions on using Create React App and many tips in [i
 Please refer to the [User Guide](https://facebook.github.io/create-react-app/docs/updating-to-new-releases) for this and other information.
 
 
+<image align="center" width="500" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W1.png"/>
+    
+<image align="right" width="500" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
+
+<image align="center"  width="500" src="https://github.com/Darshan-008/website-of-ecoders/blob/main/W2.png"/>
 
 
